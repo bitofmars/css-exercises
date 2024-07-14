@@ -1,0 +1,25 @@
+.odd-numbered {
+    background-color: #ffbbd2;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #b6ff98;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/*
+    #third and #fourth both share the same font-size,
+    so I could've used a class for the font-size 
+    instead of duplicating code!
+*/
